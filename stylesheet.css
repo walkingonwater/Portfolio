@@ -1,3 +1,7 @@
+body (
+  margin: 0;
+  font-family: chewie;
+)
 .navbar {
   overflow: hidden;
   background color: #84ffc3;

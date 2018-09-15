@@ -4,12 +4,12 @@ body (
 )
 .navbar {
   overflow: hidden;
-  background color: #84ffc3;
+  background-color: #84ffc3;
   }
   
 .navbar a {
   float: center:
-  color: 00FDF5;
+  color: #00FDF5;
   text-align: center;
   padding: 14px 14px;
   text-decoration: none;
@@ -18,5 +18,5 @@ body (
 
 
  h1 {
-   color:00FDF5;
+   color:#00FDF5;
 }

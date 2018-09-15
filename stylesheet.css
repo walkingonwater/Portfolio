@@ -1,7 +1,7 @@
-body (
+body {
   margin: 0;
-  font-family: chewie;
-)
+  font-family: "Chewie", serif;
+}
 .navbar {
   overflow: hidden;
   background-color: #84ffc3;

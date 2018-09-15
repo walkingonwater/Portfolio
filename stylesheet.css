@@ -1,14 +1,14 @@
 body {
   margin: 0;
-  font-family: "Chewie", serif;
+  font-family: "Times New Roman", serif;
 }
 .navbar {
   overflow: hidden;
-  background-color: #84ffc3;
+  background-color: yellow;
   }
   
 .navbar a {
-  float: center:
+  float: left:
   color: #00FDF5;
   text-align: center;
   padding: 14px 14px;

@@ -20,7 +20,8 @@ body {
  float: left;
  padding: 15px;
  height:400;
- h1 {
+
+  h1 {
    color:#00FDF5;
-   border-bottom: 5px solid blue;
+   border-bottom: 5px solid green;
 }

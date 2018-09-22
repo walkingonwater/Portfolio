@@ -16,10 +16,11 @@ body {
   font-size: 25px;
  }
 .column {
+ background-color: #00A9FD;
  width: 100%;
  float: left;
  padding: 10px;
- height:500px;
+ height:200px;
 }
 
   h1 {

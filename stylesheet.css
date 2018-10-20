@@ -27,3 +27,9 @@ body {
    color:#2600ff;
    border-bottom: 5px solid green;
 }
+#slideshow {
+  width: 250px;
+  Height: 325px;
+  position: relative;
+  margin: 20px auto;
+}
